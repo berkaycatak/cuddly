@@ -1,5 +1,3 @@
-# cuddly
-
 # CUDDLY
 
 Takım Cuddly (4. numara)
