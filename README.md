@@ -19,7 +19,7 @@ Takım Cuddly (4. numara)
 
 ## Ürün Açıklaması
 
-- Bilgilendirme ve kılavuz niteliğinde olan "Kontrollü Sağlık" uygulamamız ile hastaneye gitmeden önce veya hastanede bulunurken yaşanan tüm kafa karışıklığına bir son veriyoruz. İçerisinde hangi ağrı için hangi birim ve doktordan randevu alınması gerektiğinden, oynanabilecek küçük oyunlarla küçüğünden büyüğüne öğrenmeyi eğlenceli hâle getirmeyi hedefleyen uygulamamız ilgili uzmanlardan alınan görüşlerle sahip olduğu geniş bilgi havuzu ile sağlığımızı kontrol altına alıyor.
+- Bilgilendirme ve kılavuz niteliğinde olan "Kontrollü Sağlık" uygulamamız ile hastaneye gitmeden önce veya hastanede bulunurken yaşanan tüm kafa karışıklığına bir son veriyoruz. İçerisinde hangi ağrı için hangi birim ve doktordan randevu alınması gerektiğinden, oynanabilecek küçük oyunlarla küçüğünden büyüğüne öğrenmeyi eğlenceli hâle getirmeyi hedefleyen uygulamamız, ilgili uzmanlardan alınan görüşlerle sahip olduğu geniş bilgi havuzu ile sağlığımızı kontrol altına alıyor.
 
 ## Ürün Özellikleri
 
