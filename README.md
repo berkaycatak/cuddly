@@ -14,20 +14,26 @@ Takım Cuddly (4. numara)
 
 ## Ürün İsmi
 
--- --
+--Kontrollü Sağlık--
+<br>--Health Control App.--
 
 ## Ürün Açıklaması
 
-- 
+- Bilgilendirme ve kılavuz niteliğinde olan "Kontrollü Sağlık" uygulamamız ile hastaneye gitmeden önce veya hastanede bulunurken yaşanan tüm kafa karışıklığına bir son veriyoruz. İçerisinde hangi ağrı için hangi birim ve doktordan randevu alınması gerektiğinden, oynanabilecek küçük oyunlarla küçüğünden büyüğüne öğrenmeyi eğlenceli hâle getirmeyi hedefleyen uygulamamız ilgili uzmanlardan alınan görüşlerle sahip olduğu geniş bilgi havuzu ile sağlığımızı kontrol altına alıyor.
 
 ## Ürün Özellikleri
 
-- 
+- Bebekler, çocuklar, yetişkinler, ilk-yardım ve genel için ayrı kategorilerin bulunması
+- Bu kategorilerin altında her kesim için  ilgili sağlık temalarının olması
+- Örn: Genel Kategori; Tema: Poliklinik randevuları için hangi rahatsızlıklara dikkat etmek gerekli; Bu tema için bilinçlendiren yazılarla ve verilen örneklerle farkındalık yaratılır.
+- Ödüllü soru-cevap oyunları
 
 
 ## Hedef Kitle
 
-- 
+- 10-65 yaş arası kullanıcılar
+- Ebeveynler
+- Yeni doğan bebekleri olan anneler ve anne adayları
 
 
 ## Product Backlog URL
