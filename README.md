@@ -26,6 +26,10 @@ Takım Cuddly (4. numara)
 
 ## Ürün Özellikleri
 
+- Doktor ya da normal kullanıcı girişleri
+- Soru oluşturma ve cevaplama
+- Kayıt oluşturmadan gezinme ve soruları görüntüleyebilme
+- Çeşitli sağlık eğitimleri
 - Bebekler, çocuklar, yetişkinler, ilk-yardım ve genel için ayrı kategorilerin bulunması
 - Bu kategorilerin altında her kesim için  ilgili sağlık temalarının olması
 - Örn: Genel Kategori; Tema: Poliklinik randevuları için hangi rahatsızlıklara dikkat etmek gerekli; Bu tema için bilinçlendiren yazılarla ve verilen örneklerle farkındalık yaratılır.
@@ -34,7 +38,9 @@ Takım Cuddly (4. numara)
 
 ## Hedef Kitle
 
-- 10-65 yaş arası kullanıcılar
+- Sağlık sorunu yaşayanlar
+- 10-50 yaş arası kullanıcılar
+- Akıllı telefon kullananlar
 - Ebeveynler
 - Yeni doğan bebekleri olan anneler ve anne adayları
 
