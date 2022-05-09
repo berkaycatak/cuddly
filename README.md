@@ -63,8 +63,7 @@ Takım Cuddly (4. numara)
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken kırmızı başlıklar yapılacak işleri (task) gösterirken, mavi başlıklar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsap ve Google Meet üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
-
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsap ve Google Meet üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/berkaycatak/cuddly/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://raw.githubusercontent.com/berkaycatak/cuddly/main/ProjectManagement/Sprint1Documents/backlog-1.png)
