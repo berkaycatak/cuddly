@@ -1,6 +1,8 @@
 # CUDDLY
-
+<br>
 Takım Cuddly (4. numara)
+![cuddly 1](https://raw.githubusercontent.com/berkaycatak/cuddly/main/ProjectManagement/Sprint1Documents/cuddly.jpg)
+
 
 # Ürün İle İlgili Bilgiler
 
@@ -60,7 +62,12 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Sprint board update**: Sprint board screenshotları: 
 
 
-- **Ürün Durumu**: Ekran görüntüleri:
+- **Ürün Durumu**: Ekran görüntüleri: <br>
+![Backlog 1](https://raw.githubusercontent.com/berkaycatak/cuddly/main/ProjectManagement/Sprint1Documents/KontrollüSağlık-1.jpg) 
+![Backlog 2](https://raw.githubusercontent.com/berkaycatak/cuddly/main/ProjectManagement/Sprint1Documents/KontrollüSağlık-2.jpg) 
+![Backlog 3](https://raw.githubusercontent.com/berkaycatak/cuddly/main/ProjectManagement/Sprint1Documents/KontrollüSağlık-3.jpg) 
+![Backlog 4](https://raw.githubusercontent.com/berkaycatak/cuddly/main/ProjectManagement/Sprint1Documents/KontrollüSağlık-4.jpg) 
+![Backlog 5](https://raw.githubusercontent.com/berkaycatak/cuddly/main/ProjectManagement/Sprint1Documents/KontrollüSağlık-5.jpg) 
   
 
 - **Sprint Review**: 
