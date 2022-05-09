@@ -47,23 +47,23 @@ Takım Cuddly (4. numara)
 
 ## Product Backlog URL
 
-
+[Trello Backlog Board](https://trello.com/b/bjUdVQZT/cuddly-1sprint)
 
 ---
 
 # Sprint 1
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint Notları**: Araç olarak Trello kullanılmıştır. User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 32 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 96 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 32 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken kırmızı başlıklar yapılacak işleri (task) gösterirken, mavi başlıklar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsap ve Google Meet üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsap ve Google Meet üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
 
 
 - **Sprint board update**: Sprint board screenshotları: 
@@ -82,15 +82,15 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar: Uygulama kodlaması kısmında hızlanılması gerekli görülmüştür. UI design taslak aşamasındadır ve geliştirilmesine karar verilmiştir. Oluşturulan senaryolar genişletilerek ayrıntılanması uygun görülmüştür. Uygulama için kaynak toplanmasında kişi ve yerler belirlenmesi gerekli görülmüştür.
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
-
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılmalı
+  - Tahmin puanları gözden geçirilmeli
+  - Toplanılacak kaynaklara karar verilmeli
+  
 -**Diğer Notlar**:
-- N/A
+- Bayram ve kişisel sebeplerden dolayı buluşmalarda ve karar alımlarında fazla süre harcanmıştır. 2. ve 3. sprintte daha çok hızlanılması öngörülmektedir.
 
 ---
 
