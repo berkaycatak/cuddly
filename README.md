@@ -1,6 +1,7 @@
 # CUDDLY
 <br>
 Takım Cuddly (4. numara)
+
 ![cuddly 1](https://raw.githubusercontent.com/berkaycatak/cuddly/main/ProjectManagement/Sprint1Documents/cuddly.jpg)
 
 
