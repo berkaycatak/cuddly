@@ -129,7 +129,7 @@ Alınan kararlar: Kodlama yapılırken ürünün başına dönüp ara verilmesi 
   - Toplanan kaynaklar gözden geçirilmeli ve güvenilir olduğundan emin olunmalı
   
 -**Diğer Notlar**:
-- 3. sprintte uygulamayı tüm hedeflere ulaşılmış bir şekilde bitirilmesi öngörülmekte ve hedeflenmektedir.
+- 3.sprintte uygulamayı tüm hedeflere ulaşılmış bir şekilde bitirilmesi öngörülmekte ve hedeflenmektedir.
 
 ---
 
