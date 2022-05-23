@@ -95,6 +95,17 @@ Alınan kararlar: Uygulama kodlaması kısmında hızlanılması gerekli görül
 
 # Sprint 2
 
+- **Sprint Notları**: Araç olarak Trello kullanılmıştır. User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir. Tasarım ve prototip oluşturmak için araç olarak Figma kullanılmıştır.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 32 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 96 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 32 ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken kırmızı başlıklar yapılacak işleri (task) gösterirken, mavi başlıklar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsap üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/berkaycatak/cuddly/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint-2.docx)
 
 ---
 
