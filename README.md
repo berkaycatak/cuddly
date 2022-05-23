@@ -112,6 +112,13 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken k
 
 - **Ürün Durumu**: Ekran görüntüleri: <br>
 ![Screenshot 1 ](https://github.com/berkaycatak/cuddly/blob/main/ProjectManagement/Sprint1Documents/1-2.Sprint-Kontroll%C3%BC_Sa%C4%9Fl%C4%B1k.png)
+![Screenshot 2 ](https://github.com/berkaycatak/cuddly/blob/main/ProjectManagement/Sprint1Documents/2-2.Sprint-Kontroll%C3%BC_Sa%C4%9Fl%C4%B1k.png)
+![Screenshot 3 ](https://github.com/berkaycatak/cuddly/blob/main/ProjectManagement/Sprint1Documents/3-2.Sprint-Kontroll%C3%BC_Sa%C4%9Fl%C4%B1k.png)
+![Screenshot 4 ](https://github.com/berkaycatak/cuddly/blob/main/ProjectManagement/Sprint1Documents/4-2.Sprint-Kontroll%C3%BC_Sa%C4%9Fl%C4%B1k.png)
+![Screenshot 5 ](https://github.com/berkaycatak/cuddly/blob/main/ProjectManagement/Sprint1Documents/5-2.Sprint-Kontroll%C3%BC_Sa%C4%9Fl%C4%B1k.png)
+![Screenshot 6 ](https://github.com/berkaycatak/cuddly/blob/main/ProjectManagement/Sprint1Documents/6-2.Sprint-Kontroll%C3%BC_Sa%C4%9Fl%C4%B1k.png)
+![Screenshot 7 ](https://github.com/berkaycatak/cuddly/blob/main/ProjectManagement/Sprint1Documents/7-2.Sprint-Kontroll%C3%BC_Sa%C4%9Fl%C4%B1k.png)
+![Screenshot 8 ](https://github.com/berkaycatak/cuddly/blob/main/ProjectManagement/Sprint1Documents/8-2.Sprint-Kontroll%C3%BC_Sa%C4%9Fl%C4%B1k.png)
 
 
 ---
