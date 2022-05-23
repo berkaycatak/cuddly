@@ -109,7 +109,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken k
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsap üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/berkaycatak/cuddly/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint-2.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]
+![Backlog 1](https://github.com/berkaycatak/cuddly/blob/main/ProjectManagement/Sprint1Documents/1-trello-2.sprint.png)
+![Backlog 2](https://github.com/berkaycatak/cuddly/blob/main/ProjectManagement/Sprint1Documents/2-trello-2.sprint.png)
+![Backlog 3](https://github.com/berkaycatak/cuddly/blob/main/ProjectManagement/Sprint1Documents/3-trello-2.sprint.png)
 
 - **Ürün Durumu**: Ekran görüntüleri: <br>
 ![Screenshot 1 ](https://github.com/berkaycatak/cuddly/blob/main/ProjectManagement/Sprint1Documents/1-2.Sprint-Kontroll%C3%BC_Sa%C4%9Fl%C4%B1k.png)
