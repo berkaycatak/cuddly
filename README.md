@@ -120,6 +120,16 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken k
 ![Screenshot 7 ](https://github.com/berkaycatak/cuddly/blob/main/ProjectManagement/Sprint1Documents/7-2.Sprint-Kontroll%C3%BC_Sa%C4%9Fl%C4%B1k.png)
 ![Screenshot 8 ](https://github.com/berkaycatak/cuddly/blob/main/ProjectManagement/Sprint1Documents/8-2.Sprint-Kontroll%C3%BC_Sa%C4%9Fl%C4%B1k.png)
 
+- **Sprint Review**: 
+Alınan kararlar: Kodlama yapılırken ürünün başına dönüp ara verilmesi istenilmediğinden kodlama son sprinte bırakılmıştır. Uygulama üzerindeki fikirler ve kaynakların tam olarak oturulması için tartışılmıştır. UI designın son halini alabilmesi için gerekli zaman verilip üzerinde konuşulması uygun görülmüştür. Bir sağlık uygulamasının güvenilir olması gerektiğine karar verildiğinden tüm kaynakların güvenilir olması gerektiği tartışılmış buna uygun olarak kaynak toplanması yapılmıştır ve de 3. sprintte de kaynak toplamının devam edilmesi uygun görülmüştür.
+
+- **Sprint Retrospective:**
+  - Tahmin puanları gözden geçirilmeli ve tam puana ulaşılmalı
+  - Kodlama için görevlere karar verilmeli
+  - Toplanan kaynaklar gözden geçirilmeli ve güvenilir olduğundan emin olunmalı
+  
+-**Diğer Notlar**:
+- 3. sprintte uygulamayı tüm hedeflere ulaşılmış bir şekilde bitirilmesi öngörülmekte ve hedeflenmektedir.
 
 ---
 
