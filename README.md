@@ -47,7 +47,7 @@ Takım Cuddly (4. numara)
 
 ## Product Backlog URL
 
-[Trello Backlog Board-Sprint-1](https://trello.com/b/bjUdVQZT/cuddly-1sprint)
+[Trello Backlog Board-Sprint-1](https://trello.com/b/bjUdVQZT/cuddly-1sprint) <br>
 [Trello Backlog Board-Sprint-2](https://trello.com/b/yEiIiou0/cuddly-2sprint)
 
 ---
